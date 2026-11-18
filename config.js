@@ -8,6 +8,7 @@ window.SMART_AC_CONFIG = {
   city: 'Kota Serang, Banten',
   latitude: -6.1177,
   longitude: 106.1539,
+  plcWsUrl: 'wss://smart-ac-plc-rzky.riezkyramadhan41.workers.dev/ws',
   domains: {
     dashboard: 'https://dashboard.penyelamatharimu.my.id',
     ac: 'https://ac.penyelamatharimu.my.id',
